@@ -10,4 +10,14 @@
       <Folder Include="Configurations\" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\DotNetCore.Packages.Application\DotNetCore.Packages.Application.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="6.0.0-preview.4.21253.5" />
+      <PackageReference Include="Microsoft.Extensions.Http" Version="10.0.0-preview.2.25163.2" />
+    </ItemGroup>
+
 </Project>

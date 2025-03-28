@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OdVhnmivobY=",
+  "dgSpecHash": "zZBE7SGqdrs=",
   "success": true,
   "projectFilePath": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Application/DotNetCore.Packages.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/baranucdag/.nuget/packages/microsoft.aspnetcore.http.features/6.0.0-preview.4.21253.5/microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.primitives/6.0.0-preview.4.21253.7/microsoft.extensions.primitives.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/system.io.pipelines/6.0.0-preview.4.21253.7/system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0-preview.4.21253.7/system.runtime.compilerservices.unsafe.6.0.0-preview.4.21253.7.nupkg.sha512"
+  ],
   "logs": []
 }

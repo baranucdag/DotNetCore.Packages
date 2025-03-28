@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.Api", "DotNetCore.Packages.Api\DotNetCore.Packages.Api.csproj", "{2C046CD0-6619-4A39-926A-2F486C431DA3}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.Persistence", "DotNetCore.Packages.Persistence\DotNetCore.Packages.Persistence.csproj", "{871FFFEF-D3C6-426D-B56D-67805E4F1CE1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.Domain", "DotNetCore.Packages.Domain\DotNetCore.Packages.Domain.csproj", "{6A93E939-831E-4B15-BA36-D21E699162BA}"
@@ -10,16 +8,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.Infrast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.Application", "DotNetCore.Packages.Application\DotNetCore.Packages.Application.csproj", "{3DB74290-E303-4232-A09C-7C9F333A0B09}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Packages.WebApi", "DotNetCore.Packages.WebApi\DotNetCore.Packages.WebApi.csproj", "{F4A61FC2-235D-4629-8C05-13758ADC1709}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2C046CD0-6619-4A39-926A-2F486C431DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2C046CD0-6619-4A39-926A-2F486C431DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2C046CD0-6619-4A39-926A-2F486C431DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2C046CD0-6619-4A39-926A-2F486C431DA3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{871FFFEF-D3C6-426D-B56D-67805E4F1CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{871FFFEF-D3C6-426D-B56D-67805E4F1CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871FFFEF-D3C6-426D-B56D-67805E4F1CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -36,5 +32,9 @@ Global
 		{3DB74290-E303-4232-A09C-7C9F333A0B09}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB74290-E303-4232-A09C-7C9F333A0B09}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB74290-E303-4232-A09C-7C9F333A0B09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A61FC2-235D-4629-8C05-13758ADC1709}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A61FC2-235D-4629-8C05-13758ADC1709}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A61FC2-235D-4629-8C05-13758ADC1709}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A61FC2-235D-4629-8C05-13758ADC1709}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,8 +1,27 @@
 {
   "version": 2,
-  "dgSpecHash": "Ifjqgk/x3uE=",
+  "dgSpecHash": "1ZGcXFVPZHg=",
   "success": true,
   "projectFilePath": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Infrastructure/DotNetCore.Packages.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/baranucdag/.nuget/packages/microsoft.aspnetcore.http.abstractions/2.3.0/microsoft.aspnetcore.http.abstractions.2.3.0.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.aspnetcore.http.features/6.0.0-preview.4.21253.5/microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.configuration/10.0.0-preview.2.25163.2/microsoft.extensions.configuration.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.configuration.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.configuration.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.configuration.binder/10.0.0-preview.2.25163.2/microsoft.extensions.configuration.binder.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.diagnostics/10.0.0-preview.2.25163.2/microsoft.extensions.diagnostics.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.diagnostics.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.diagnostics.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.http/10.0.0-preview.2.25163.2/microsoft.extensions.http.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.logging/10.0.0-preview.2.25163.2/microsoft.extensions.logging.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.0-preview.2.25163.2/microsoft.extensions.logging.abstractions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.options/10.0.0-preview.2.25163.2/microsoft.extensions.options.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.options.configurationextensions/10.0.0-preview.2.25163.2/microsoft.extensions.options.configurationextensions.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/microsoft.extensions.primitives/10.0.0-preview.2.25163.2/microsoft.extensions.primitives.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/system.diagnostics.diagnosticsource/10.0.0-preview.2.25163.2/system.diagnostics.diagnosticsource.10.0.0-preview.2.25163.2.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/system.io.pipelines/6.0.0-preview.4.21253.7/system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512",
+    "/Users/baranucdag/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
