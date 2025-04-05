@@ -25,6 +25,86 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/DotNetCore.Packages.Domain.csproj": {
+                "projectPath": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/DotNetCore.Packages.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[6.0.0-preview.4.21253.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/baranucdag/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/DotNetCore.Packages.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/DotNetCore.Packages.Domain.csproj",
+        "projectName": "DotNetCore.Packages.Domain",
+        "projectPath": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/DotNetCore.Packages.Domain.csproj",
+        "packagesPath": "/Users/baranucdag/.nuget/packages/",
+        "outputPath": "/Users/baranucdag/RiderProjects/DotNetCore.Packages/DotNetCore.Packages.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/baranucdag/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {}
           }
         },
@@ -43,9 +123,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.Http.Features": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[6.0.0-preview.4.21253.5, )"
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
@@ -122,6 +202,14 @@
             "Microsoft.Extensions.Http": {
               "target": "Package",
               "version": "[10.0.0-preview.2.25163.2, )"
+            },
+            "RedLock.net": {
+              "target": "Package",
+              "version": "[2.3.2, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.31, )"
             }
           },
           "imports": [

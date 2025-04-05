@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DotNetCore.Packages.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c185dc301b17b5329f768074022d0fcf00d41bf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9a1c7b509badd605b0ecc2021d6fb23cc64fe83")]
 [assembly: System.Reflection.AssemblyProductAttribute("DotNetCore.Packages.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DotNetCore.Packages.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
